@@ -28,7 +28,7 @@ For Software:
 - [CSS, javascript,html]
 - [Bolt]
 - [github]
-- 
+- backend
 
 
 ### Project Documentation
@@ -40,47 +40,21 @@ For Software:
 
 *Add caption explaining what this shows*
 
-[picture of website](IMG-20250809-WA0004.jpg)
+![picture of website](IMG-20250809-WA0004.jpg)
 *Add caption explaining what this shows*
 
 ![picture](IMG-20250809-WA0005.jpg)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schema)tic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[project demo video](VID-20250809-WA0010.mp4)
+![project demo video](VID-20250809-WA0010.mp4)
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+[https://sunny-macaron-8ee9de.netlify.app/]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

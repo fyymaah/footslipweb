@@ -35,7 +35,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![](Add screenshot 1 here with proper name)
+![https://github.com/fyymaah/footslipweb/blob/main/IMG-20250809-WA0004.jpg](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)

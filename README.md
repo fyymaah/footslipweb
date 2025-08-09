@@ -31,27 +31,26 @@ For Software:
 - backend
 
 
-### Project Documentation
-For Software:
+
 
 # Screenshots (Add at least 3)
 
 ![picture of website](IMG-20250809-WA0008.jpg)
 
-*Add caption explaining what this shows*
+
 
 ![picture of website](IMG-20250809-WA0004.jpg)
-*Add caption explaining what this shows*
+
 
 ![picture](IMG-20250809-WA0005.jpg)
-*Add caption explaining what this shows*
+
 
 
 
 ### Project Demo
 # Video
 ![project demo video](VID-20250809-WA0010.mp4)
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [https://sunny-macaron-8ee9de.netlify.app/]

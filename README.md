@@ -37,14 +37,13 @@ For Software:
 # Screenshots (Add at least 3)
 
 ![picture of website](IMG-20250809-WA0008.jpg)
+
+*Add caption explaining what this shows*
+
 [picture of website](IMG-20250809-WA0004.jpg)
-[picture of website](
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
+![picture](IMG-20250809-WA0005.jpg)
 *Add caption explaining what this shows*
 
 # Diagrams

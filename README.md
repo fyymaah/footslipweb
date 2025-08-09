@@ -35,7 +35,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![picture of website](IMG-20250809-WA0004.jpg)
+
+![picture of website](IMG-20250809-WA0008.jpg)
+[picture of website](IMG-20250809-WA0004.jpg)
+[picture of website](
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -50,7 +53,7 @@ For Software:
 
 For Hardware:
 
-# Schematic & Circuit
+# Schema)tic & Circuit
 ![Circuit](Add your circuit diagram here)
 *Add caption explaining connections*
 

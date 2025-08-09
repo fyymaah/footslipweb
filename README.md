@@ -69,7 +69,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[VID-20250809-WA0010.mp4]
+[project demo video](VID-20250809-WA0010.mp4)
 *Explain what the video demonstrates*
 
 # Additional Demos
